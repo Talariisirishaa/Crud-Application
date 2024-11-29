@@ -6,12 +6,12 @@ function Update() {
   const { id } = useParams();
   const navigate = useNavigate();
 
-  // State for user values
+
   const [values, setValues] = useState(null); // Initialize as null
   const [loading, setLoading] = useState(true); // Loading state
 
   useEffect(() => {
-    // Fetch user data
+
     axios.get('http://localhost:3000/users/' + id)
       .then((res) => {
         setValues(res.data); 
