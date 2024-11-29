@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1f73",
+      "name": "lalitha devi",
+      "email": "lalithadevi@gmail.com",
+      "dob": "January 10, 1998"
+    },
+    {
+      "id": "4da9",
+      "name": "brisha max",
+      "email": "brishamax123@gmail.com",
+      "dob": "November 3, 2013"
+    },
+    {
+      "id": "b2fe",
+      "name": "jenelia demar",
+      "email": "jenelia123@gmail.com",
+      "dob": "july 20, 1998"
+    },
+    {
+      "id": "6caa",
+      "name": "kevin cohort",
+      "email": "kevincohort23@gmail.com",
+      "dob": "october 16, 1995"
+    },
+    {
+      "id": "f2aa",
+      "name": "sirisha talari",
+      "email": "talarisirisha30@gmail.com",
+      "dob": "August 26, 2003"
+    },
+    {
+      "id": "2c0d",
+      "name": "maanav singh",
+      "email": "maanavsing@gmail.com",
+      "dob": "December 12, 1999"
+    }
+  ]
+}
